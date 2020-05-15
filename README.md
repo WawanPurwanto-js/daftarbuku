@@ -11,3 +11,9 @@ daftar buku menggunakan  bahasa pemograman python
 - tambahkan ke daftar file yang diubah dengan git add
 - simpan perubahan dengan git commit
 - kirim perubahan ke github dengan git push
+
+
+#menggunakan git dengan pycharm
+- membuka project baru yang sudah di clone di commanline
+- ubah file
+- mengirim gile git hub
