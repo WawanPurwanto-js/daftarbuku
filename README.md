@@ -1,7 +1,7 @@
 # daftarbuku
 daftar buku menggunakan  bahasa pemograman python
 
-#Menggunakan GIT dengna Command line
+# Menggunakan GIT dengna Command line
 -buat ssh key
 -upload ke git hub
 - buat repository
@@ -13,7 +13,10 @@ daftar buku menggunakan  bahasa pemograman python
 - kirim perubahan ke github dengan git push
 
 
-#menggunakan git dengan pycharm
+# Menggunakan git dengan pycharm
 - membuka project baru yang sudah di clone di commanline
 - ubah file
 - mengirim gile git hub
+
+
+# Merubah melalui branh
